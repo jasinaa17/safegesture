@@ -12,6 +12,9 @@ We have choosen  this project because most of the ladies they feel  uncomfortabl
 Capturing through the camera of the face reactions (FER) or the hand signals (media pipe) using open CV,
 Through the camera it will be capturing two types like mediapipe and FER through the media pipe we can make they hand tracking (sign languages) and through the FER we can predict the emotions of the person after completing the predictions then the beep sound will be enabled and a alert message and the screenshot will be sent to the owner of the camera or the nearby police station through a mail. The email is sent using Python SMTP
 
+![help](https://github.com/user-attachments/assets/4eb7be44-1b86-422b-a06f-9e5d8cf236a0)
+![normal](https://github.com/user-attachments/assets/bff7125a-4d06-4442-aaf8-bbd71ad4f352)
+
 **CHALLENGES:**
 
 Performance, Lower resolutions, Random facial detection or hand signals detection, Poor Lighting 
@@ -19,3 +22,7 @@ Performance, Lower resolutions, Random facial detection or hand signals detectio
 **FUTURE IMPLEMENTATION:**
 
 Connection with CCTV Cameras, More advanced facial detection, Works in any kind of lighting, The alert message can be sent to the police station or cyber crime
+
+RESEARCH MATERIALS:
+Dynamic Hand Gesture Recognition Study, Gesture Recognition using MediaPipe Framework, Landmark-Based Emotion Recognition 
+
