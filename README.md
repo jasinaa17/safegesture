@@ -14,13 +14,8 @@ Through the camera it will be capturing two types like mediapipe and FER through
 
 **CHALLENGES:**
 
-Performance
-Lower resolutions 
-Random facial detection or hand signals detection 
-Poor Lighting 
+Performance, Lower resolutions, Random facial detection or hand signals detection, Poor Lighting 
 
 **FUTURE IMPLEMENTATION:**
-Connection with CCTV Cameras
-More advanced facial detection
-Works in any kind of lighting
-The alert message can be sent to the police station or cyber crime
+
+Connection with CCTV Cameras, More advanced facial detection, Works in any kind of lighting, The alert message can be sent to the police station or cyber crime
